@@ -1,16 +1,24 @@
 #include <iostream>
 #include <string>
+#include <vector>
+#include <algorithm>
 
 int main() {
-    std::string name;
-    std::cout << "Enter your name: ";
-    std::cin >> name;
+    std::vector<int> numbers = {5, 2, 8, 1, 9};
 
-    std::cout << "Hello, " << name << "!\n";
+    std::sort(numbers.begin(), numbers.end());
 
-    for (int i = 0; i < 10; ++i) {
-        std::cout << i << '\n';
+    std::cout << "Numbers: ";
+
+    for (int number : numbers) {
+        std::cout << number << " ";
     }
+
+    std::cout << std::endl;
+
+    std::string name = "User";
+    std::cout << "Hello, " << name << "!" << std::endl;
 
     return 0;
 }
+
